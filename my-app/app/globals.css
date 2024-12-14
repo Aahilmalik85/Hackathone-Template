@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.shopsect h3, .shopPara{
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  }
+  .shopsect .shopPara{
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  }
+  
